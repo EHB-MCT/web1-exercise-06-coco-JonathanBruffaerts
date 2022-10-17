@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+body {
+	margin: 0;
+}
+.background {
+	width: 1600px;
+	height: 900px;
+	margin: 0 auto;
+	background-image: url(images-coco/coco.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.logo {
+	width: 550px;
+	float: right;
+	margin-top: 100px;
+	margin-right: 100px;
+}
+.foto {
+}
+
+.foto img {
+	width: 300px;
+}
+
+h1 {
+	color: white;
+	font-family: "Abel", sans-serif;
+}
+h2 {
+	color: white;
+	font-family: "Abel", sans-serif;
+}
